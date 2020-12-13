@@ -11,5 +11,13 @@ class TestCalc():
         assert expect == self.calc.add(a,b)
 
     @pytest.mark.parametrize("a,b,expect", [(5, 3, 2), (-5, -2, -3), (300, 200, 100)], ids=["int", "minus", "bigint"])
-    def test_add(self,a,b,expect):
+    def test_sub(self,a,b,expect):
         assert expect == self.calc.sub(a,b)
+
+    @pytest.mark.parametrize("a,b,expect",[(5,2,10),(5.5,10,55),(100,20,2000)],ids=['int','float','bigint'])
+    def test_mul(self,a,b,expect):
+        assert expect == self.calc.mul(a,b)
+
+    @pytest.mark.parametrize("a,b,expect",[(10,2,5),(10.2,2,5.1),(2000,20,100)],ids=['int','float','bigint'])
+    def test_div(self,a,b,expect):
+        assert expect == self.calc.div(a,b)

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b89e7f6-430a-4e04-a816-1082e79d5bf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4b89e7f6-430a-4e04-a816-1082e79d5bf9" name="Default Changelist" comment="减法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_cal.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cal.py" afterDir="false" />
     </list>
@@ -82,6 +81,22 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_cal.TestCalc.test_sub" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="F:\Python\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cal.TestCalc.test_sub&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_setup_teardown.TestClass" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,22 +110,6 @@
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_setup_teardown.TestClass&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_setup_teardown.TestClass.test_one" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="F:\Python\pythonProject\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_setup_teardown.TestClass.test_one&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -133,10 +132,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.pytest for test_cal.TestCalc" />
+        <item itemvalue="Python tests.pytest for test_cal.TestCalc.test_sub" />
         <item itemvalue="Python tests.pytest for test_cal.TestCalc.test_add" />
         <item itemvalue="Python tests.pytest in test_setup_teardown.py" />
         <item itemvalue="Python tests.pytest for test_setup_teardown.TestClass" />
-        <item itemvalue="Python tests.pytest for test_setup_teardown.TestClass.test_one" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,19 @@
       <option name="presentableId" value="Default" />
       <updated>1607516547408</updated>
     </task>
+    <task id="LOCAL-00001" summary="减法">
+      <created>1607831199980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607831199980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="减法" />
+    <option name="LAST_COMMIT_MESSAGE" value="减法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607517936987">
@@ -168,22 +179,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607830842380" />
-    <state width="762" height="250" key="GridCell.Tab.0.bottom" timestamp="1607524270142">
+    <state width="757" height="332" key="GridCell.Tab.0.bottom" timestamp="1607832069356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="762" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607524270142" />
-    <state width="762" height="250" key="GridCell.Tab.0.center" timestamp="1607524270142">
+    <state width="757" height="332" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607832069356" />
+    <state width="757" height="332" key="GridCell.Tab.0.center" timestamp="1607832069356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="762" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607524270142" />
-    <state width="762" height="250" key="GridCell.Tab.0.left" timestamp="1607524270142">
+    <state width="757" height="332" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607832069356" />
+    <state width="757" height="332" key="GridCell.Tab.0.left" timestamp="1607832069356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="762" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607524270142" />
-    <state width="762" height="250" key="GridCell.Tab.0.right" timestamp="1607524270142">
+    <state width="757" height="332" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607832069356" />
+    <state width="757" height="332" key="GridCell.Tab.0.right" timestamp="1607832069356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="762" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607524270142" />
+    <state width="757" height="332" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607832069356" />
     <state width="762" height="250" key="GridCell.Tab.1.bottom" timestamp="1607524270142">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -204,10 +215,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607830016815" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607831082251">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607831281821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607831082251" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607831281821" />
     <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607831086585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
